@@ -1,0 +1,7 @@
+pig 
+cat 
+dog
+hello 
+world
+java
+snail
